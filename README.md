@@ -15,17 +15,6 @@ ShopZen is a modern e-commerce web application built using HTML, CSS, and JavaSc
 - CSS3
 - JavaScript
 
-## Project Structure
-
-ShopZen/
-│
-├── index.html
-├── css/
-│   └── style.css
-│
-└── js/
-    └── script.js
-
 
 ## Future Improvements
 - User login system
